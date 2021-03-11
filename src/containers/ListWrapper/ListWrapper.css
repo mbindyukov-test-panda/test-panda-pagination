@@ -1,0 +1,19 @@
+.list-wrapper {
+    padding-top: 3rem;
+    border-radius: 10px;
+    background-color: aliceblue;
+    display: flex;
+}
+
+.pagination {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.pagination:hover {
+    cursor: pointer !important;
+}
+
+input {
+    margin-bottom: 2rem;
+}
